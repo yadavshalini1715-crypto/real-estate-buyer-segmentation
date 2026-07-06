@@ -1,0 +1,11 @@
+Age,Income,Budget,Property_Type,Investment
+25,50000,3000000,Apartment,Yes
+32,70000,5000000,Villa,Yes
+28,45000,2500000,Apartment,No
+40,120000,9000000,Commercial,Yes
+35,80000,6000000,Villa,No
+30,60000,4000000,Apartment,Yes
+45,150000,12000000,Commercial,Yes
+27,48000,2800000,Apartment,No
+38,95000,7500000,Villa,Yes
+29,55000,3500000,Apartment,No
